@@ -1,1 +1,1 @@
-This is my readme file at the root of my folder
+Readme can be quite annoying at times, but you've gotta be here right 
